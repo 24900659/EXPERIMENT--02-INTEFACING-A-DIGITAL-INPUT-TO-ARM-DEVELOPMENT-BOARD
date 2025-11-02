@@ -137,9 +137,13 @@ static void MX_GPIO_Init(void)
 
 ## Output  :
 SWITCH OFF:
+
+
 <img width="897" height="804" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/be9a253c-6661-4879-90ec-afb34cb57876" />
 
 SWITCH ON:
+
+
 <img width="740" height="740" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/b2e5ad4a-2861-480b-81eb-8a52b849f4bb" />
 
 
